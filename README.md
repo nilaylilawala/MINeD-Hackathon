@@ -3,13 +3,13 @@
 ## Team Name - Team Tensor 
 ## Topic - Stock Market Analysis (Track - 3)
 
-The Given Program help to identify the following patterns:
+The Given Program helps to identify the following patterns:
 1. Head and Shoulder 
 2. Reverse Head and Shoulder
 3. Double Top 
 4. Double Bottom
 
-Data is read from 4 CSV files that contain the Open , High , Close and Low value corresponding to a specific date and time. Data for every 5 minutes is provided in the CSV files. Also the ground truth about the pattern the stock shows for a day is provided in other 4 CSV files. These 8 files , 4 of data and other 4 of ground truth is used for training purpose. For a user to identify the stock pattern , user needs to provide a CSV file as input that contains Open, High , Close and Low value with specific date and time.
+Data is read from 4 CSV files that contain the Open, High, Low and Close value corresponding to a specific date and time. Data for every 5 minutes is provided in the CSV files. Also the ground truth about the pattern the stock shows for a day is provided in other 4 CSV files. These 8 files , 4 of data and other 4 of ground truth is used for training purpose. For a user to identify the stock pattern , user needs to provide a CSV file as input that contains Open, High , Close and Low value with specific date and time.
 
 
 ## Approach -
