@@ -1,7 +1,7 @@
 # MiNeD-Hackathon
 
-## Team Name - Team Tensor 
-## Topic - Stock Market Analysis (Track - 3)
+## Team Name - Team Tensor 👾
+## Topic - Stock Market Analysis 📈📊 (Track - 3)
 
 The Given Program helps to identify the following patterns:
 1. Head and Shoulder 
